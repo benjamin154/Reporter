@@ -1,5 +1,5 @@
 {
-    "name": "grupoantyr/reporter",
+    "name": "benjamin154/reporter",
     "description": "paquete para creacion y manejo de reportes",
     "type": "library",
     "license": "apache License",
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GrupoAntyr\\Reporter\\": "src/"
+            "Benjamin154\\Reporter\\": "src/"
         }
     }
 }
